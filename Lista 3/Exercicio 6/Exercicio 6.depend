@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1711310488 source:c:\users\jonathan\documents\puc\1º periodo\algoritmos e estrutura de dados i - aeds\atividades\lista 3\exercicio 6\fibonacci.c
+	<stdio.h>
+	<stdlib.h>
+
+1711304811 source:c:\users\jonathan\documents\puc\1º periodo\algoritmos e estrutura de dados i - aeds\atividades\lista 3\exercicio 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
