@@ -15,4 +15,4 @@ Navegue pelos diretórios para encontrar o material desejado.
 
 Leia as instruções e utilize os códigos conforme necessário para seu aprendizado.
 
-Autor: Víctor Gabriel Cruz Pereira
+Autor: Jonathan Sena da Silva
