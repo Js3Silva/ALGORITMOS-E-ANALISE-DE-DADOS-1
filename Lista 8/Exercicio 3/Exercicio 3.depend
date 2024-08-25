@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716335714 source:c:\users\jonathan\documents\puc\1º periodo\algoritmos e estrutura de dados i - aeds\1.1 - atividades\lista 8\exercicio 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
